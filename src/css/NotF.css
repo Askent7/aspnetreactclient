@@ -1,0 +1,20 @@
+pre{
+    font:25px/1 monospace;
+    color: white;
+    white-space: pre;
+    text-align: left;
+}
+.N404{
+    position: absolute;
+    background: black;
+    width: 100vw;
+    height: 100vh;
+}
+body{
+
+padding: 0;
+
+}
+p{
+    margin: 0;
+}

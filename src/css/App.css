@@ -1,0 +1,22 @@
+.Padding{
+    padding: 10% 20% 10% 20%;
+    height: 100%;
+}
+.But{
+    margin: 5px;
+    display: inline-block;
+    transform: scale(0.8);
+}
+.But1{
+    margin-top: 20px;
+    text-decoration: none;
+}
+body{
+    background: white;
+}
+.Link{
+    text-decoration: none;
+}
+.But2{
+    margin-bottom: 10%;
+}
